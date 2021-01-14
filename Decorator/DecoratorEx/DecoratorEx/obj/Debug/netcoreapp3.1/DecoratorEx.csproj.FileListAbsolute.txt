@@ -1,0 +1,13 @@
+C:\Users\eduardo.anjos\Desktop\DesignPatternsHandsOn\Decorator\DecoratorEx\DecoratorEx\bin\Debug\netcoreapp3.1\DecoratorEx.exe
+C:\Users\eduardo.anjos\Desktop\DesignPatternsHandsOn\Decorator\DecoratorEx\DecoratorEx\bin\Debug\netcoreapp3.1\DecoratorEx.deps.json
+C:\Users\eduardo.anjos\Desktop\DesignPatternsHandsOn\Decorator\DecoratorEx\DecoratorEx\bin\Debug\netcoreapp3.1\DecoratorEx.runtimeconfig.json
+C:\Users\eduardo.anjos\Desktop\DesignPatternsHandsOn\Decorator\DecoratorEx\DecoratorEx\bin\Debug\netcoreapp3.1\DecoratorEx.runtimeconfig.dev.json
+C:\Users\eduardo.anjos\Desktop\DesignPatternsHandsOn\Decorator\DecoratorEx\DecoratorEx\bin\Debug\netcoreapp3.1\DecoratorEx.dll
+C:\Users\eduardo.anjos\Desktop\DesignPatternsHandsOn\Decorator\DecoratorEx\DecoratorEx\bin\Debug\netcoreapp3.1\DecoratorEx.pdb
+C:\Users\eduardo.anjos\Desktop\DesignPatternsHandsOn\Decorator\DecoratorEx\DecoratorEx\obj\Debug\netcoreapp3.1\DecoratorEx.csprojAssemblyReference.cache
+C:\Users\eduardo.anjos\Desktop\DesignPatternsHandsOn\Decorator\DecoratorEx\DecoratorEx\obj\Debug\netcoreapp3.1\DecoratorEx.AssemblyInfoInputs.cache
+C:\Users\eduardo.anjos\Desktop\DesignPatternsHandsOn\Decorator\DecoratorEx\DecoratorEx\obj\Debug\netcoreapp3.1\DecoratorEx.AssemblyInfo.cs
+C:\Users\eduardo.anjos\Desktop\DesignPatternsHandsOn\Decorator\DecoratorEx\DecoratorEx\obj\Debug\netcoreapp3.1\DecoratorEx.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.anjos\Desktop\DesignPatternsHandsOn\Decorator\DecoratorEx\DecoratorEx\obj\Debug\netcoreapp3.1\DecoratorEx.dll
+C:\Users\eduardo.anjos\Desktop\DesignPatternsHandsOn\Decorator\DecoratorEx\DecoratorEx\obj\Debug\netcoreapp3.1\DecoratorEx.pdb
+C:\Users\eduardo.anjos\Desktop\DesignPatternsHandsOn\Decorator\DecoratorEx\DecoratorEx\obj\Debug\netcoreapp3.1\DecoratorEx.genruntimeconfig.cache
