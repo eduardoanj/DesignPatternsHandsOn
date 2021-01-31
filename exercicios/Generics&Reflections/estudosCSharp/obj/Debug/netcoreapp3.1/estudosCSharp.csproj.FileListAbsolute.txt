@@ -1,0 +1,13 @@
+C:\Users\eduardo.anjos\Desktop\estudosCSharp\estudosCSharp\bin\Debug\netcoreapp3.1\estudosCSharp.exe
+C:\Users\eduardo.anjos\Desktop\estudosCSharp\estudosCSharp\bin\Debug\netcoreapp3.1\estudosCSharp.deps.json
+C:\Users\eduardo.anjos\Desktop\estudosCSharp\estudosCSharp\bin\Debug\netcoreapp3.1\estudosCSharp.runtimeconfig.json
+C:\Users\eduardo.anjos\Desktop\estudosCSharp\estudosCSharp\bin\Debug\netcoreapp3.1\estudosCSharp.runtimeconfig.dev.json
+C:\Users\eduardo.anjos\Desktop\estudosCSharp\estudosCSharp\bin\Debug\netcoreapp3.1\estudosCSharp.dll
+C:\Users\eduardo.anjos\Desktop\estudosCSharp\estudosCSharp\bin\Debug\netcoreapp3.1\estudosCSharp.pdb
+C:\Users\eduardo.anjos\Desktop\estudosCSharp\estudosCSharp\obj\Debug\netcoreapp3.1\estudosCSharp.csprojAssemblyReference.cache
+C:\Users\eduardo.anjos\Desktop\estudosCSharp\estudosCSharp\obj\Debug\netcoreapp3.1\estudosCSharp.AssemblyInfoInputs.cache
+C:\Users\eduardo.anjos\Desktop\estudosCSharp\estudosCSharp\obj\Debug\netcoreapp3.1\estudosCSharp.AssemblyInfo.cs
+C:\Users\eduardo.anjos\Desktop\estudosCSharp\estudosCSharp\obj\Debug\netcoreapp3.1\estudosCSharp.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.anjos\Desktop\estudosCSharp\estudosCSharp\obj\Debug\netcoreapp3.1\estudosCSharp.dll
+C:\Users\eduardo.anjos\Desktop\estudosCSharp\estudosCSharp\obj\Debug\netcoreapp3.1\estudosCSharp.pdb
+C:\Users\eduardo.anjos\Desktop\estudosCSharp\estudosCSharp\obj\Debug\netcoreapp3.1\estudosCSharp.genruntimeconfig.cache
